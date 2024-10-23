@@ -16,6 +16,16 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.10.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-java</artifactId>
+      <version>4.25.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-chrome-driver</artifactId>
       <version>4.25.0</version>
@@ -25,5 +35,11 @@
       <artifactId>selenium-firefox-driver</artifactId>
       <version>4.25.0</version>
     </dependency>
+    <dependency>
+      <groupId> org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.10.2</version>
+    </dependency>
   </dependencies>
+
 </project>
